@@ -1,0 +1,3 @@
+/home/admin/sentimentAnalysis/lambdaS3/src/test/java/com/amazonaws/lambda/demo/TestContext.java
+/home/admin/sentimentAnalysis/lambdaS3/src/test/java/com/amazonaws/lambda/demo/LambdaFunctionHandlerTest.java
+/home/admin/sentimentAnalysis/lambdaS3/src/test/java/com/amazonaws/lambda/demo/TestUtils.java
